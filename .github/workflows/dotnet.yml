@@ -12,7 +12,7 @@ env:
 
 jobs:
   buildFrontend:
-    environment: DevWorkshop
+    environment: devworkshoptest
     runs-on: windows-latest
 
     steps:
